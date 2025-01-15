@@ -31,7 +31,7 @@ dependencies = [
 ]
 
 [project.urls]
-Source = "https://github.com/osoekawaitlab/ol-python-coding-agent"
+Source = "https://github.com/osoekawaitlab/image-to-data"
 
 [tool.setuptools]
 packages=["oli2d"]
